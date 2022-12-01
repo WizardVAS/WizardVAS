@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WizardVAS
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning CI/CD
-- 💞️ I’m looking to collaborate on ICT Architect 
-- 📫 How to reach me ... via email yavkin.timur@gmail.com
+- 👀 I’m interested for DevOps tech
+- 🌱 I’m currently learning CI/CD tools
+- 💞️ I’m looking to collaborate in ICT Architect dutys 
+- 📫 How to reach me ... via email: yavkin.timur@gmail.com
 
 <!---
 WizardVAS/WizardVAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
